@@ -13,8 +13,8 @@
 <!-- - 🌱 I’m currently learning **Front End frameworks** -->
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
-I’m currently learning Software Engineering @SLIIT
-- 🧑‍🎓💻 I’m an udergraduate @SLIIT**
+
+- 🧑‍🎓💻 I’m an udergraduate @SLIIT
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://anukarr.web.app/)**
 
