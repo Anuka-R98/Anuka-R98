@@ -16,7 +16,7 @@
 
 - 🧑‍🎓💻 I’m an udergraduate @SLIIT
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://anukarr.web.app/)**
+- 👨‍💻 Check out my cool website **[My Portfolio](https://anuka-rathnayake.web.app/)**
 
 - 📫 How to reach me **anukarathnayaka098@gmail.com**
 
